@@ -1,2 +1,3 @@
 # keycloak-biometric-rest-extension
-Keycloak biometric rest extension for exteral ogic
+COPY keycloak-biometric-rest-extension-2.0.0-SNAPSHOT.jar /opt/keycloak/providers
+
