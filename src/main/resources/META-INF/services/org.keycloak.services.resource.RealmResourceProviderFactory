@@ -1,0 +1,2 @@
+com.keycloak.biometric.BiometricResourceProviderFactory
+com.keycloak.pin.PinResourceProviderFactory
